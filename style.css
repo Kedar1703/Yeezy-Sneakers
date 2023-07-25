@@ -206,6 +206,7 @@ button:hover {
     border-bottom: 1px solid var(--15);
 } 
 
+
 #featured .row {
     display: flex;
     justify-content: center;

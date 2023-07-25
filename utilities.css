@@ -148,3 +148,14 @@
     font-size: 2rem;
     cursor: pointer;
 }
+
+.small-img {
+    border: 2px solid #ccc; /* You can adjust the border width and color as needed */
+    border-radius: 5px; /* Add some border radius for a rounded border */
+  }
+  
+
+  .quantity-btn {
+    width: 30px;
+    /* Adjust the width as per your preference */
+  }
